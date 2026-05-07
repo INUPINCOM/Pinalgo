@@ -3,7 +3,7 @@
 인천대학교 중앙동아리 PINCOM에서 진행하는 알고리즘 스터디입니다.  
 프로그래머스 문제를 풀고, GitHub **Pull Request(PR)** 로 코드를 공유하며 서로 **리뷰(코멘트)** 합니다.
 
-> 저장소 위치: [INUPINCOM](https://github.com/INUPINCOM) Organization 하위 레포지토리
+> 저장소: [INUPINCOM/Pinalgo](https://github.com/INUPINCOM/Pinalgo) · Organization: [INUPINCOM](https://github.com/INUPINCOM)
 
 ---
 
@@ -40,8 +40,8 @@
 ### 1) 저장소 받기 (clone)
 
 ```bash
-git clone <이 저장소 HTTPS 또는 SSH URL>
-cd <저장소 폴더>
+git clone https://github.com/INUPINCOM/Pinalgo.git
+cd Pinalgo
 ```
 
 ### 2) 최신 코드 받기
@@ -107,7 +107,7 @@ git push -u origin week-03/honggildong
 
 1. GitHub 저장소 페이지에서 **Compare & pull request** 를 누릅니다.  
 2. base는 **`main`**, compare는 **본인 브랜치**인지 확인합니다.  
-3. 아래 **PR 설명 템플릿**을 채웁니다.  
+3. 아래 **PR 본문 템플릿**을 채웁니다.  
 4. 팀원이 코드에 **코멘트**를 남깁니다.
 
 ---
